@@ -1,6 +1,6 @@
 #include <stdio.h>
 void hey(){
-  printf("hey there i am a void function!");
+  printf("hey there i am a void function!\n");
 }
 
 int main(){
